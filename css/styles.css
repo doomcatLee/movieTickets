@@ -1,0 +1,16 @@
+#show-ticket{
+  text-align: center;
+  font-size: 20px;
+  border: 2px solid #0f0;
+  display: none;
+}
+
+#show-ticket p{
+  font-weight: bolder;
+
+}
+
+span{
+  color:  red;
+  font-weight: lighter
+}
